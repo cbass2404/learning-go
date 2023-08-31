@@ -1,4 +1,4 @@
-package typesStructs
+package main
 
 /*
 * Private/Public access is determined by the capitalization of the first letter of the var
