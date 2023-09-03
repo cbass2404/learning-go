@@ -1,0 +1,28 @@
+{
+  "name": "learning-go",
+  "version": "1.0.0",
+  "description": "repo to document the first portion of a learning go udemy course",
+  "main": "main.go",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "go test -cover"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbass2404/learning-go.git"
+  },
+  "keywords": [
+    "udemy",
+    "golang",
+    "trevor",
+    "sawler"
+  ],
+  "author": "Cory Bass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbass2404/learning-go/issues"
+  },
+  "homepage": "https://github.com/cbass2404/learning-go#readme"
+}
